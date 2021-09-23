@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+}
+body{
+    background: linear-gradient(45deg,limegreen,tomato,limegreen);
+}
+#header {
+  background-color: black;
+  height: 70px;
+}
+#Brand {
+  float: left;
+  color: wheat;
+  text-align: center;
+  width: 40%;
+  line-height: 70px;
+}
+a {
+  color: wheat;
+  margin-right: 10px;
+  text-decoration: none;
+}
+#menu {
+  text-align: center;
+  float: right;
+  width: 60%;
+  line-height: 70px;
+}
+#title{
+    text-align: center;
+    margin-top: 50px;
+}
+#pizza{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#dp{
+    background: linear-gradient(45deg,darkred,black);
+    width: 40%;
+    padding: 10px;
+    border-radius: 40%;
+    color: wheat;
+    margin: 20px auto;
+}
+table{
+  width: 100%;
+  margin-top: 10px;
+}
+img{
+  border-radius: 20px;
+  box-shadow: 0 0 10px black;
+}
+#burger{
+  text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#bk{
+    color: wheat;
+    background: linear-gradient(45deg,darkred,black);
+    width: 40%;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 40%;
+}
+#ff{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+#french{
+  color: wheat;
+  background: linear-gradient(45deg,darkred,black);
+  width: 40%;
+  padding: 10px;
+  margin: 20px auto;
+  border-radius: 40%;
+}
+#footer{
+  color: wheat;
+  text-align: center;
+  background-color: black;
+  margin-top: 30px;
+  padding: 20px;
+}
+#me{
+  color: red;
+  margin-top: 10px;
+}
